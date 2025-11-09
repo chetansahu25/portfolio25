@@ -11,8 +11,8 @@ const Contact = () => {
         </div>
       </div>
 
-      <div className="flex flex-col justify-between md:flex-row gap-10 w-4/5 mx-auto">
-        <div className="w-1/2">
+      <div className="flex flex-col justify-between sm:flex-row gap-10 w-4/5 mx-auto">
+        <div className="sm:w-1/2">
           <h4 className="text-xl font-semibold font-poppins text-gray-200">Let's Work Together</h4>
           <p className="text-sm font-poppins text-gray-400">I love working on projects that create real impact. As a developer, I am always excited to learn, collaborate, and build products that solve meaningful problems.
           </p>
@@ -20,7 +20,7 @@ const Contact = () => {
             If you share the same passion, feel free to connect with me on my socials. I would love to chat or work together.</p>
 
         </div>
-        <div className="w-1/2">
+        <div className="sm:w-1/2">
           <h4 className="text-xl font-semibold font-poppins text-gray-200">Connect with me</h4>
           <div className="flex gap-3 my-5 mx-auto">
             <a href="mailto:chetansahuwork@gmail.com" className="flex flex-col text-center hover:scale-110">

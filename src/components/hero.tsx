@@ -33,7 +33,7 @@ const Hero = () => {
                 <Button
                     variant="default"
                     size="lg"
-                    className="w-full sm:w-auto bg-gray-400/5 hover:bg-gray-400/20 border border-white/5"
+                    className=" bg-gray-400/5 hover:bg-gray-400/20 border border-white/5"
                     asChild
                 >
                     <a href="https://drive.google.com/file/d/1W6C1_32kiKBKJn2iy_pZQqHbr4AZRVR3/view?usp=sharing" target="_blank" rel="noopener noreferrer">
