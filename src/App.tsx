@@ -1,11 +1,11 @@
-import About from './components/about'
-import Hero from './components/hero'
-import Experience from './components/experience'
-import Navigation from './components/navigation'
-import Skills from './components/skills'
-import Project from './components/projects'
-import Contact from './components/contact'
-import Footer from './components/footer'
+import About from './components/year2025/about'
+import Project from './components/year2025/projects'
+import Skills from './components/year2025/skills'
+import Contact from './components/year2025/contact'
+import Experience from './components/year2025/experience'
+import Footer from './components/year2025/footer'
+import Hero from './components/year2025/hero'
+import Navigation from './components/year2025/navigation'
 
 
 function App() {

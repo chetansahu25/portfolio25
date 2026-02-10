@@ -1,7 +1,7 @@
 import { FiExternalLink, FiGithub } from "react-icons/fi"
 import { Card, CardContent } from "@/components/ui/card"
 import { Button } from "./ui/button"
-import PillText from "./PillText"
+import PillText from "./year2025/PillText"
 
 
 const projects = [

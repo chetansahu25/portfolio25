@@ -1,4 +1,4 @@
-import GlareHover from "./GlareHover";
+import GlareHover from "../year2025/GlareHover";
 
 interface Technology {
   name: string;
