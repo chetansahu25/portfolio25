@@ -1,5 +1,5 @@
 
-import TiltedCard from "./TiltedCard"
+import TiltedCard from "../TiltedCard"
 
 const About = () => {
 

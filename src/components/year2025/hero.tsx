@@ -1,6 +1,6 @@
 import { FiExternalLink, FiGithub, FiLinkedin, FiMail } from "react-icons/fi";
 import { Button } from "@/components/ui/button";
-import SplitText from "./SplitText";
+import SplitText from "../SplitText";
 
 const Hero = () => {
     return (
