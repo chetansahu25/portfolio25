@@ -24,12 +24,12 @@ const Contact = () => {
           <h4 className="text-xl font-semibold font-poppins text-gray-200">Connect with me</h4>
           <div className="flex gap-3 my-5 mx-auto">
             <a href="mailto:chetansahuwork@gmail.com" className="flex flex-col text-center hover:scale-110">
-            <img className=" peer w-12 grayscale-50 hover:grayscale-0 hover:bg-transparent hover:border ease-in duration-150 p-2 rounded-lg bg-white/5" src="/images/communication.png" alt="Mail Icons" />
+            <img className=" peer w-12 hover:grayscale-0 hover:bg-transparent hover:border ease-in duration-150 p-2 rounded-lg bg-white/5" src="/images/communication.png" alt="Mail Icons" />
             <p className="text-sm font-semibold mt-2 text-gray-400 font-unbounded peer-hover:text-gray-200">Mail</p>
 
             </a>
             <a href="https://linkedin.com/in/chetansahu25" className="flex flex-col text-center hover:scale-110" target="_blank">
-            <img className=" peer w-12 grayscale-50 hover:grayscale-0 hover:bg-transparent hover:border ease-in duration-150 p-2 rounded-lg bg-white/5" src="/images/linkedin.png" alt="Linkedin Icons" />
+            <img className=" peer w-12 hover:grayscale-0 hover:bg-transparent hover:border ease-in duration-150 p-2 rounded-lg bg-white/5" src="/images/linkedin.png" alt="Linkedin Icons" />
             <p className="text-sm font-semibold mt-2 text-gray-400 font-unbounded peer-hover:text-gray-200">LinkedIn</p>
 
             </a>

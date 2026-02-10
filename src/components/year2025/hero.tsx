@@ -18,7 +18,7 @@ const Hero = () => {
                 from={{ opacity: 0, y: 40 }}
             />
             <p className="text-gray-500 text-2xl text-center max-w-2xl mt-8 font-poppins">
-                I build scalable, pixel-perfect web applications using the MERN
+                I build scalable, pixel-perfect web applications using MERN
                 stack. Passionate about creating seamless user experiences with
                 modern technologies and robust backend architectures.
             </p>

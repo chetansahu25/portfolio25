@@ -13,7 +13,7 @@ function App() {
 
 
   return (
-    <div className="bg-black/97 text-white min-h-screen flex flex-col">
+    <div className="bg-black/97 text-white min-h-screen flex flex-col selection:bg-yellow-400 selection:text-black">
       <Navigation />
       <Hero />
       <About />

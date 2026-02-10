@@ -118,7 +118,7 @@ const Project = () => {
         </div>
 
         {/* Other Projects */}
-        <div className="mx-5">
+        <div className="mx-auto w-4/5 ">
           <h3 className="text-2xl font-semibold text-gray-300 mb-8">Other Projects</h3>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6">
             {otherProjects.map((project, index) => (
@@ -128,7 +128,7 @@ const Project = () => {
                     <img
                       src={project.image || "/placeholder.svg"}
                       alt={project.title}
-                      className="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-300"
+                      className="w-full h-[350px] object-cover group-hover:scale-105 transition-transform duration-300"
                     />
                   </div>
                   <div className="p-6">
