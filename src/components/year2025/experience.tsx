@@ -11,7 +11,7 @@ interface experienceData {
 
 const experience: experienceData[] = [
     {
-        duration: "04/2026 - Present",
+        duration: "03/2026 - Present",
         companyName: "Knot Dating",
         companyWebsite: "https://knot.dating",
         role: "Software Engineer",
@@ -23,7 +23,7 @@ const experience: experienceData[] = [
         Implemented Slack webhook integrations for real - time deployment and system notifications.Collaborated closely with cross - functional teams to deliver features, resolve production issues, and maintain platform reliability.`
     },
     {
-        duration: "11/2025 - 03/2026",
+        duration: "11/2025 - 02/2026",
         companyName: "Knot Dating",
         companyWebsite: "https://knot.dating",
         role: "QA Engineer Intern",
